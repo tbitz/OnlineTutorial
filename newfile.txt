@@ -3,3 +3,6 @@ Some more text from develop branch
 changes on line 3 in mybranch
 line4
 changes on line 5 in mybranch
+added some text on line 3 master
+
+added some text on line 5 master
