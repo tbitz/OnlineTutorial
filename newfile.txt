@@ -1,2 +1,5 @@
 changed
 Some more text from develop branch
+added some text on line 3 master
+
+added some text on line 5 master
